@@ -1,0 +1,3 @@
+github to git
+    command git pull ( github modified vs code show )
+    
