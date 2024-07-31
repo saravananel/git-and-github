@@ -1,0 +1,10 @@
+GitHub..
+
+	1. create account
+	2. click + symbol
+	3. new repository
+	4.create a new file 
+	5.name introduction of git and GitHub.txt
+	6.commit change
+	7.commit message(any things)
+
