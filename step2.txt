@@ -1,0 +1,25 @@
+git..
+		
+	1. download git
+	2.install git
+	3.open cmd
+	4 command cmd : git
+			git config --global user.name""
+			git config --global user.email""
+
+	5.create folder in local disk d
+	6.download vs code
+	7. file -> open folder -> open 
+	8. terminal 
+	9.new terminal 
+	
+	10. command git clone (copy GitHub repository link)
+
+	 clone folder and files
+		1. change directory
+			command cd (filename in git)
+		2.check 
+			1.local disk D -> folder-> file -> view -> hidden files -> (.git)
+
+		3. vs code ->bridge<- GitHub
+
